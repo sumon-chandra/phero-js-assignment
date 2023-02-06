@@ -57,4 +57,3 @@ function gemsToDiamond(firstFriendGems, secondFriendGems, thirdFriendGems) {
     return sum;
   }
 }
-console.log(gemsToDiamond(100, 5, 1));
