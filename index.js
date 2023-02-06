@@ -49,7 +49,6 @@ function findingBadData(arr) {
   }
   return result.length;
 }
-console.log(findingBadData([2, -5, -7, -13, -8]));
 // ** Problem 05 ----> gemsToDiamond
 // This function will take three arguments and calculate these arguments and return a number. First check if the sum is greater than 2000 or not. If it is then multiply it by 2 otherwise return sum itself.
 function gemsToDiamond(firstFriendGems, secondFriendGems, thirdFriendGems) {
